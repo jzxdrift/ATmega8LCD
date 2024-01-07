@@ -22,7 +22,7 @@
 #define LCD_EN			LCD_CTRL_PORT |= _BV(E)
 #define LCD_DIS			LCD_CTRL_PORT &= ~_BV(E)
 
-#define SET_DDRAM_ADDR	0x80
+#define SET_DDRAM_ADDR		0x80
 
 typedef enum
 {
