@@ -1,1 +1,1 @@
-ATmega8 to LCD communication with floating point support.
+ATmega8 ADC to LCD communication with floating point support.
